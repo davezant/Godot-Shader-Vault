@@ -1,4 +1,6 @@
-<img src="https://github.com/USER/godot-shader-vault/raw/main/assets/banner.png"/>
+<p align="center">
+  <img src="https://github.com/davezant/Godot-Shader-Vault/blob/49338d752c497b828598b531cdc699a87577cb1d/shadervault.png" width="1000"/>
+</p>
 
 # 🎨 Godot Shader Vault  
 **A free public-domain library of shaders for Godot – no restrictions, no attribution required. Just plug and play.**
